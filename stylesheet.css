@@ -1,0 +1,14 @@
+h1{
+	text-align: center;
+}
+#answers{
+	display: flex;
+	flex-direction: column;
+}
+#question{
+	margin-top: 30px;
+}
+#submit-bTn{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
